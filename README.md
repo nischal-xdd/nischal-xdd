@@ -24,20 +24,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nischal-xdd&show_icons=true&locale=en" alt="nischal-xdd" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nischal-xdd&" alt="nischal-xdd" /></p>
-<div align="center">
-  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
-</div>
-
-###
-
-<img src="https://raw.githubusercontent.com/nischal-xdd/nischal-xdd/output/snake.svg" alt="Snake animation" />
-
-###
-
-<img src="https://raw.githubusercontent.com/nischal-xdd/nischal-xdd/output/snake.svg" alt="Snake animation" />
-
-###
-
-<img src="https://raw.githubusercontent.com/nischal-xdd/nischal-xdd/output/snake.svg" alt="Snake animation" />
-
-###
